@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hqlco.hqlco&color=00cf00)
+<![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hqlco.hqlco&color=00cf00)>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/hqlco/count.svg" />
+</p>
 
 **hqlco/hqlco** is a great math and programer.
 
