@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 𝙶𝚒𝚝𝙷𝚞𝚋
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hqlco&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## 𝙶𝚒𝚝𝙷𝚞𝚋 Stats
+## 𝙶𝚒𝚝𝙷𝚞𝚋 stats
 ![rosy github stats](https://github-readme-stats.vercel.app/api?username=hqlco&show_icons=true&hide_border=true)
 ------
 
